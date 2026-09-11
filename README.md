@@ -2,9 +2,9 @@
 
 # Nikesh
 
-### Computer Science Student • Aspiring AI & Backend Developer
+### Software Engineering • Backend & Applied AI
 
-Building practical backend systems, multi-agent RAG workflows, and modern web applications.
+Building robust backend services, retrieval-augmented generation (RAG) systems, and modern web applications.
 
 <br>
 
@@ -12,7 +12,7 @@ Building practical backend systems, multi-agent RAG workflows, and modern web ap
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:nikeshkoila328@gmail.com">
+<a href="mailto:nikeshbirwa17@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -20,37 +20,29 @@ Building practical backend systems, multi-agent RAG workflows, and modern web ap
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am a Computer Science student focused on software engineering, backend architecture, and AI-driven applications.
+I am a Computer Science undergraduate focused on backend engineering and practical AI integration. 
 
-I have hands-on experience building multi-agent workflows and RAG pipelines using **Python**, **FastAPI**, **LangGraph**, and **LangChain**, along with PostgreSQL and vector stores like Pinecone. I enjoy working on structured problems, writing maintainable code, and learning how to design reliable systems from experienced teams.
+My work centers on building reliable REST APIs, database architectures, and agentic LLM workflows using **Python**, **FastAPI**, **PostgreSQL**, and **LangGraph**. I prioritize clean code structure, predictable system behavior, and building applications that solve concrete domain problems.
 
 ---
 
-## ⚡ Tech Stack
+## Technical Skills
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### AI & Frameworks
-
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multi--Agent_Workflows-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-2A4D69?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Backend & Databases
-
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
@@ -61,26 +53,19 @@ I have hands-on experience building multi-agent workflows and RAG pipelines usin
 
 <td valign="top" width="50%">
 
-### Languages
-
+### AI & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
-### Frontend
-
+### Frontend & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
-
-### Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 </td>
@@ -89,42 +74,33 @@ I have hands-on experience building multi-agent workflows and RAG pipelines usin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Livia-AI](https://github.com/poojary-nikesh1612/Livia-AI.git)
 **Voice-first Multi-Modal Rice Crop Diagnostic System**
-* Built an agricultural advisory application using **LangGraph**, **RAG**, and **FastAPI** to diagnose rice crop diseases in real time.
-* Implemented a Human-in-the-Loop (HITL) workflow with a **PostgreSQL** checkpointer for multi-turn clarifications and state management.
-* Integrated multi-lingual speech-to-text (**Sarvam AI**) and audio response pipelines (**Edge-TTS**) for Kannada and English.
-* Added localized, climate-aware pesticide recommendations using **Google Gemini** and the OpenWeatherMap API.
+* Built a voice-first decision support application using **LangGraph**, **RAG**, and **FastAPI** for real-time rice disease diagnostics.
+* Implemented a Human-in-the-Loop (HITL) workflow with a **PostgreSQL** checkpointer to handle multi-stage clarifications and state resumption.
+* Integrated speech-to-text (**Sarvam AI**) and audio response pipelines (**Edge-TTS**) for localized Kannada and English interactions.
 
-### [ChatBook](https://github.com/poojary-nikesh1612/chatbook.git)
+### [ChatBook](https://chatbook-seven.vercel.app)
 **AI-Powered Document Workspace with RAG**
-* Developed a workspace application for document indexing, semantic search, and contextual Q&A using Retrieval-Augmented Generation.
-* Built the backend with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**, implementing Google OAuth, workspace isolation, and automated guest data cleanup.
-* Designed retrieval pipelines using **Pinecone** and LLM endpoints for contextual query rewriting and conversation summarization.
+* Developed a workspace platform using Retrieval-Augmented Generation for document upload, semantic vector search, and contextual chat.
+* Built backend services with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**, featuring Google OAuth, workspace isolation, and automated guest data cleanup.
+* Integrated vector search pipelines using **Pinecone** and LLM endpoints for query rewriting and conversation summarization.
 
-### [Acadigo](https://github.com/poojary-nikesh1612/acadigo.git)
-**State Exam Resource Platform**
-* Developed a full-stack educational portal serving Karnataka students with previous year question papers for PUC, SSLC, KCET, NEET, and COMEDK.
-* Built with **Next.js**, **Tailwind CSS**, and **MongoDB** for fast indexing, search, and responsive document downloads.
+### [Acadigo](https://acadigo.vercel.app)
+**Educational Resource Platform**
+* Developed an educational platform using **Next.js**, **Tailwind CSS**, and **MongoDB**, featuring dynamic routing for exams, subjects, and courses.
+* Implemented page-specific comment threads for targeted interaction and built responsive interfaces for mobile and web access.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/poojary-nikesh1612">
   <img src="https://github-readme-stats.shion.dev/api?username=poojary-nikesh1612&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark_dimmed" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-> *"Drafting today's blueprint for tomorrow's world."*
 
 </div>
